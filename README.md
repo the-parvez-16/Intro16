@@ -20,8 +20,8 @@ As a beginner, I’m still learning, but here are a few skills I’ve picked up 
 4. **Explore** the open-source ecosystem and also Explore Ethical hacking.
 
 ## Fun Fact About Me 🎉
--⚡ Fun fact: I'm an ambivert so I can't talk with new peoples but I talk to known peoples more and more.
--I love **Gaming and waching movies of marvel** when I’m not coding!
+- ⚡ Fun fact: I'm an ambivert so I can't talk with new peoples but I talk to known peoples more and more.
+- I love **Gaming and waching movies of marvel** when I’m not coding!
 
 ## Let’s Connect! 🌐
 Feel free to reach out to me:
