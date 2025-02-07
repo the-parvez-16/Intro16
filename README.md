@@ -1,4 +1,4 @@
-# Hello, Coders! 👋
+# Hello, Coders! 👋🏻
 
 ## About Me
 Hi, I’m **The Parvez**, and I’m super excited to Introduce myself! 🎉
