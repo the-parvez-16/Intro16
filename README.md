@@ -14,7 +14,7 @@ As a beginner, I’m still learning, but here are a few skills I’ve picked up 
 
 ##  I’m here To🎯
 
-1. **Learn** and improve my **coding skills**.
+1. ![Learn](https://img.shields.io/badge/learn-black?logo=linux) and improve my ![Coding](https://img.shields.io/badge/coding_skills-beige?logo=codio).
 2. **Collaborate** with amazing people from around the world.
 3. **Contribute** to real-world projects and make a positive impact.
 4. **Explore** the open-source ecosystem and also Explore Ethical hacking.
@@ -23,11 +23,9 @@ As a beginner, I’m still learning, but here are a few skills I’ve picked up 
 - ⚡ Fun fact: I'm an ambivert so I can't talk with new people but I talk to known people more and more.
 - I love **Gaming and waching Marvel movies** when I’m not coding!
 
-## Let’s Connect! 🌐
+## Let’s Connect!
 Feel free to reach out to me:
-- **GitHub**: https://github.com/the-parvez-16
-- **LinkedIn**:  https://www.linkedin.com/in/the-parvez-211256314
-- **Email**: parvez.k.m.16@gmail.com
+- [![GitHub Badge](https://img.shields.io/badge/-the--parvez--16-222?style=flat&logo=github&logoColor=white&link=https://github.com/the-parvez-16)](https://github.com/the-parvez-16) [![Linkedin Badge](https://img.shields.io/badge/-the__parvez__16-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/the-parvez-211256314)](https://www.linkedin.com/in/the-parvez-211256314) [![Email Badge](https://img.shields.io/badge/-the_parvez_16-111?style=flat&logo=Gmail&logoColor=whitw&link=parvez.k.m.16@gmail.com)](parvez.k.m.16@gmail.com)
 
 ---
 
@@ -37,9 +35,7 @@ I’m thrilled to be part of this journey and can’t wait to contribute, learn,
 the-parvez-16/Intro16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Facebokm Badge](https://img.shields.io/badge/-the__parvez__16-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/100060492342160/)](https://www.facebook.com/100060492342160) [![Instagram Badge](https://img.shields.io/badge/-the__parvez__16-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/the_parvez_16/)](https://www.instagram.com/the_parvez_16/) [![Linkedin Badge](https://img.shields.io/badge/-the__parvez__16-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/the-parvez-211256314)](https://www.linkedin.com/in/the-parvez-211256314)
+[![Facebokm Badge](https://img.shields.io/badge/-the__parvez__16-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/100060492342160/)](https://www.facebook.com/100060492342160) [![Instagram Badge](https://img.shields.io/badge/-the__parvez__16-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/the_parvez_16/)](https://www.instagram.com/the_parvez_16/) [![Linkedin Badge](https://img.shields.io/badge/-the__parvez__16-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/the-parvez-211256314)](https://www.linkedin.com/in/the-parvez-211256314)
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=the-parvez-16&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github"/><img width="425" src="https://streak-stats.demolab.com?user=the-parvez-16&theme=tokyonight" alt="𝐓ʜᴇ Ƥᴀʀᴠ𝑒ᴢ ♔"/>
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=the-parvez-16&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-# Support :
-<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="the-parvez-16" />
