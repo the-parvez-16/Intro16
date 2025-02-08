@@ -1,4 +1,4 @@
-# Hello, Coders! 👋🏻
+# <img alt="Static Badge" src="https://img.shields.io/badge/-black?logo=shadcnui">Hello, Coders! 👋🏻
 
 ## About Me
 Hi, I’m **The Parvez**, and I’m super excited to Introduce myself! 🎉
@@ -12,14 +12,15 @@ As a beginner, I’m still learning, but here are a few skills I’ve picked up 
 - Familiarity with **Git** and **GitHub**
 - Enthusiasm for learning on the go 🚀
 
-##  I’m here To🎯
+##  I’m here To <img alt="Static Badge" src="https://img.shields.io/badge/-0C1528?logo=scpfoundation">
 
-1. ![Learn](https://img.shields.io/badge/learn-black?logo=linux) and improve my ![Coding](https://img.shields.io/badge/coding_skills-beige?logo=codio).
-2. **Collaborate** with amazing people from around the world.
-3. **Contribute** to real-world projects and make a positive impact.
-4. **Explore** the open-source ecosystem and also Explore Ethical hacking.
 
-## Fun Fact About Me 🎉
+1. ![Learn](https://img.shields.io/badge/learn-black?logo=linux) and improve my ![Coding](https://img.shields.io/badge/coding_skills-aliceblue?logo=codio).
+2. ![Collaborate](https://img.shields.io/badge/Collaborate-3B00B9?logo=internetcomputer) with amazing people from around the world.
+3. ![Contribute](https://img.shields.io/badge/Contribute-5E0D73?logo=contributorcovenant) to real-world projects and make a positive impact.
+4. ![Explore](https://img.shields.io/badge/Explore-3B00f9?logo=compilerexplorer) the open-source ecosystem and also Explore Ethical hacking.
+
+## Fun Fact About Me <img alt="Static Badge" src="https://img.shields.io/badge/-black?logo=pythonanywhere">
 - ⚡ Fun fact: I'm an ambivert so I can't talk with new people but I talk to known people more and more.
 - I love **Gaming and waching Marvel movies** when I’m not coding!
 
